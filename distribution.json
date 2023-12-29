@@ -13,7 +13,7 @@
             "description": "Cosmic Tweaks is a good design client for minecraft",
             "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/Demo-1.19.4.png",
             "version": "2.0.0",
-            "address": "",
+            "address": "localhost:25565",
             "minecraftVersion": "1.8.9",
             "discord": {
                 "shortId": "Example",

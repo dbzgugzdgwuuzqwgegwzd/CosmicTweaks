@@ -1,11 +1,11 @@
 {
     "version": "1.0.0",
-    "discord": {
-        "clientId": "1182057995048341635",
-        "smallImageText": "Cosmic Tweaks",
-        "smallImageKey": "logo"
-    },
     "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
+    "discord": {
+        "clientId": "1086936373057040395",
+        "smallImageText": "Cosmic Tweaks",
+        "smallImageKey": "big"
+    },
     "servers": [
         {
             "id": "CosmicTweaks",
@@ -44,7 +44,7 @@
                             "url": "https://drive.google.com/uc?export=download&id=1n7bwrQVVmVRJY-UqHtDrlW_wV4cEA-xO"
                         }
                     }
-            ]
-        }
-    ]
+                ]
+            }
+        ]
 }

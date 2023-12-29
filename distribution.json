@@ -34,16 +34,17 @@
                         "url": "https://drive.google.com/uc?export=download&id=1N8AKU4HJFwpHwu6F1iZ3Wlm2Fklyv8Vg"
                     },
                     "subModules": [
-                    {
-                        "id": "1.8.9",
-                        "name": "Minecraft Cosmic Tweaks (version.json)",
-                        "type": "VersionManifest",
-                        "artifact": {
-                            "size": 15843,
-                            "MD5": "108aaf6bc19398706eae41b87cc0a5f4",
-                            "url": "https://drive.google.com/uc?export=download&id=1n7bwrQVVmVRJY-UqHtDrlW_wV4cEA-xO"
+                        {
+                            "id": "1.8.9",
+                            "name": "Minecraft Cosmic Tweaks (version.json)",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 15843,
+                                "MD5": "108aaf6bc19398706eae41b87cc0a5f4",
+                                "url": "https://drive.google.com/uc?export=download&id=1n7bwrQVVmVRJY-UqHtDrlW_wV4cEA-xO"
+                            }
                         }
-                    }    
+                    ]  
                 }   
             ]
         }

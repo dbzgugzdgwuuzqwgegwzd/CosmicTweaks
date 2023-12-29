@@ -20,8 +20,8 @@
                 "largeImageText": "Cosmic Tweaks",
                 "largeImageKey": "logo"
             },
-            "mainServer": true,
-            "autoconnect": true,
+            "mainServer": false,
+            "autoconnect": false,
             "modules": [
                 {
                     "id": "1.8.9",

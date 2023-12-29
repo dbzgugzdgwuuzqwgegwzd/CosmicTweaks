@@ -853,13 +853,13 @@
         ]
       },
       {
-        "id": "Demo-1.20",
-        "name": "Demo (Minecraft 1.20)",
-        "description": "Demo Running Minecraft 1.20 (Forge v46.0.2)",
+        "id": "Demo-1.8.9",
+        "name": "Demo (Minecraft 1.8.9)",
+        "description": "Demo Running Minecraft 1.8.9 (Cosmic Tweaks 2.0)",
         "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.20/Demo-1.20.png",
         "version": "1.0.0",
         "address": "localhost:25565",
-        "minecraftVersion": "1.20",
+        "minecraftVersion": "1.8.9",
         "discord": {
           "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
           "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",

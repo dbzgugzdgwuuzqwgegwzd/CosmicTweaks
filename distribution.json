@@ -1,3 +1,50 @@
 {
-  
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "1182057995048341635",
+        "smallImageText": "Cosmic Tweaks",
+        "smallImageKey": "logo"
+    },
+    "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
+    "servers": [
+        {
+            "id": "CosmicTweaks",
+            "name": "Cosmic Tweaks",
+            "description": "Cosmic Tweaks is a good design client for minecraft",
+            "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/Demo-1.19.4.png",
+            "version": "2.0.0",
+            "address": "",
+            "minecraftVersion": "1.8.9",
+            "discord": {
+                "shortId": "Example",
+                "largeImageText": "Cosmic Tweaks",
+                "largeImageKey": "logo"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "1.8.9",
+                    "name": "Minecraft Cosmic Tweaks",
+                    "type": "Cosmic Tweaks",
+                    "classpath": true,
+                    "artifact": {
+                        "size": 7378,
+                        "MD5": "567726c42a1312962ffd96af646f227d",
+                        "url": "https://drive.google.com/uc?export=download&id=1N8AKU4HJFwpHwu6F1iZ3Wlm2Fklyv8Vg"
+                    },
+                    "subModules": [
+                    {
+                        "id": "1.8.9",
+                        "name": "Minecraft Cosmic Tweaks (version.json)",
+                        "type": "VersionManifest",
+                        "artifact": {
+                            "size": 15843,
+                            "MD5": "108aaf6bc19398706eae41b87cc0a5f4",
+                            "url": "https://drive.google.com/uc?export=download&id=1n7bwrQVVmVRJY-UqHtDrlW_wV4cEA-xO"
+                        }
+                    }
+            ]
+        }
+    ]
 }

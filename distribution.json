@@ -869,7 +869,7 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.fiverr.client:1.8.8",
+          "id": "CatClient:1.8.8",
           "name": "Minecraft Client",
           "type": "ForgeHosted",
           "classpath": true,

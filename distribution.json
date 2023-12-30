@@ -851,47 +851,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "Demo-1.8.8",
-      "name": "Demo (CatClient 1.8.8)",
-      "description": "Demo Running Minecraft 1.8.9 (CatClient v1.0)",
-      "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.20/Demo-1.20.png",
-      "version": "1.0.0",
-      "address": "localhost:25565",
-      "minecraftVersion": "1.8.8",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "CatClient:1.8.8",
-          "name": "Minecraft Client",
-          "type": "Library",
-          "classpath": true,
-          "artifact": {
-            "size": 2279,
-            "MD5": "4a69374eb645771ddb0387a9076b450f",
-            "url": "https://drive.google.com/uc?export=download&id=1N8AKU4HJFwpHwu6F1iZ3Wlm2Fklyv8Vg"
-          },
-          "subModules": [
-            {
-              "id": "1.8.8",
-              "name": "Minecraft Client (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 5373,
-                "MD5": "1125883344968dbbe14e74cf3ad2b5e8",
-                "url": "https://raw.githubusercontent.com/dbzgugzdgwuuzqwgegwzd/CosmicTweaks/main/CatClient.json"
-              }
-            }
-          ]
-        }
-      ]
     }
   ]
 }

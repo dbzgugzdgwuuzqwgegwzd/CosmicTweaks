@@ -892,47 +892,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "Demo-1.8.9",
-      "name": "Demo (QuantumClient 1.8.9)",
-      "description": "Demo Running Minecraft 1.8.9 (QuantumClient v2.0)",
-      "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.20/Demo-1.20.png",
-      "version": "2.0.0",
-      "address": "localhost:25565",
-      "minecraftVersion": "1.8.9",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "1.8.9",
-          "name": "Minecraft Client",
-          "type": "ForgeHosted",
-          "classpath": true,
-          "artifact": {
-            "size": 7400,
-            "MD5": "4a69374eb645771ddb0387a9076b450f",
-            "url": "https://download1593.mediafire.com/djpflvjon12go-UO0u1I9QdnEcjCzMMcbZrQpcK_ARSBFnZlm9YtsTtO302lAd9qkNJUbKA3xDrp2zLMIZ3cikOvZzsRcPAVC5GWiGB22xf4QHPf_edMHKHyLreydjMPrIFr9zncD3NCKBnPPtA-nJRnhszHw4_ZI2rXvqYV6ABKhw/v235owqs3ncp1b1/QuantumClient.jar"
-          },
-          "subModules": [
-            {
-              "id": "1.8.9",
-              "name": "Minecraft Client (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 15970,
-                "MD5": "1125883344968dbbe14e74cf3ad2b5e8",
-                "url": "https://raw.githubusercontent.com/dbzgugzdgwuuzqwgegwzd/CosmicTweaks/main/QuantumClient.json"
-              }
-            }
-          ]
-        }
-      ]
     }
   ]
 }

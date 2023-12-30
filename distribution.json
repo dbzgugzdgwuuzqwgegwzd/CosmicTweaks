@@ -884,7 +884,7 @@
               "name": "Minecraft Client (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 15970,
+                "size": 5373,
                 "MD5": "1125883344968dbbe14e74cf3ad2b5e8",
                 "url": "https://raw.githubusercontent.com/dbzgugzdgwuuzqwgegwzd/CosmicTweaks/main/CatClient.json"
               }

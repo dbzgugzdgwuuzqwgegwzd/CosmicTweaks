@@ -871,7 +871,7 @@
         {
           "id": "CatClient:1.8.8",
           "name": "Minecraft Client",
-          "type": "ForgeHosted",
+          "type": "ClientHosted",
           "classpath": true,
           "artifact": {
             "size": 2279,
